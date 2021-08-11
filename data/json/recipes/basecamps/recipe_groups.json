@@ -201,7 +201,7 @@
     "id": "saltworks_recipes_2",
     "building_type": "COOK",
     "recipes": [
-      { "id": "brew_fruit_wine", "description": " WIP Brew: Fruit Wine Must" },
+      { "id": "brew_fruit_wine_npc_brew", "description": " WIP Brew: Fruit Wine Must" },
       { "id": "brew_mead", "description": " WIP Brew: Spiced Wine Must" },
       { "id": "brew_dandelion_wine", "description": " WIP Brew: Dandelion Wine Must" },
       { "id": "brew_burdock_wine", "description": " WIP Brew: Burdock Wine Must" },
