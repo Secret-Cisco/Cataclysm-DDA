@@ -274,17 +274,17 @@
     "type": "recipe",
     "activity_level": "NO_EXERCISE",
     "result": "brew_fruit_wine",
-	"id_suffix": "npc_brew"
-    "result_mult": 3,
+	"id_suffix": "npc_brew",
+    "result_mult": 57,
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_BREW",
     "skill_used": "cooking",
-    "difficulty": 57,
+    "difficulty": 3,
     "time": "53 s",
     "batch_time_factors": [ 95, 4 ],
     "book_learn": [ [ "brewing_cookbook", 2 ], [ "winemaking_beginner", 2 ] ],
 	"container": "wooden_barrel",
     "qualities": [ { "id": "CONTAIN", "level": 1 } ],
     "components": [ [ [ "juice", 38 ] ], [ [ "yeast", 19 ] ], [ [ "water", 38 ], [ "water_clean", 38 ] ], [ [ "wooden_barrel", 1 ] ] ]
-  },
+  }
 ]
